@@ -10,24 +10,15 @@ O projeto é o gerenciamento da escola Lion School, deverá ser realizado tanto 
 Deverá consumir a API e criar as páginas conforme o designer feito no [figma](https://www.figma.com/file/KhTQbG1DY0MdAIGK73ZWp8/PWFE---Trabalho-Integrado?node-id=0%3A1).
 
 ### Critérios 
-Criou layout conforme designer feito no Figma?
-Os botões dos cursos são dinâmicos?
-
-Os cards são criados dinamicamente?
+- [ ] Criou layout conforme designer feito no Figma?
+- [ ] Os botões dos cursos são dinâmicos?
+- [ ] Os cards são criados dinamicamente?
 - [ ] A página com informações dos cursos foi criada dinamicamente?
 - [ ] O filtro por status está funcional?
-[] Os nomes das variáveis, funções e arquivos tem valor semântico?
-[] A maioria das funções seguem as boas práticas como responsabilidade única?
-[] Foi criado o layout responsivo no Figma?
-[] Foi implementado a responsividade conforme planejado no Figma?
-[] Foi criado o filtro por ano?
+- [ ] Os nomes das variáveis, funções e arquivos tem valor semântico?
+- [ ] A maioria das funções seguem as boas práticas como responsabilidade única?
+- [ ] Foi criado o layout responsivo no Figma?
+- [ ] Foi implementado a responsividade conforme planejado no Figma?
+- [ ] Foi criado o filtro por ano?
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+Clique [aqui](https://reliable-yttrium-924.notion.site/7e8be653064c42eab044b543fa4391e1?v=2b3db2ab3f3048eea7b752613c817597) para acompanhar a correção

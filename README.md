@@ -25,3 +25,13 @@ Clique [aqui](https://reliable-yttrium-924.notion.site/7e8be653064c42eab044b543f
 
 ---
 ## Projeto Back-end
+Deverá criar um servidor API implementando somente o método GET, contendo os seguintes end-points:
+- /cursos
+- /alunos
+- /alunos/matricula
+- /disciplinas/aluno/matricula
+
+### Entregas
+- [ ] Cronograma de atividades
+- [ ] Documentação da API
+- [ ] Postman 

@@ -14,8 +14,8 @@ Criou layout conforme designer feito no Figma?
 Os botões dos cursos são dinâmicos?
 
 Os cards são criados dinamicamente?
-- [] A página com informações dos cursos foi criada dinamicamente?
-- [] O filtro por status está funcional?
+- [ ] A página com informações dos cursos foi criada dinamicamente?
+- [ ] O filtro por status está funcional?
 [] Os nomes das variáveis, funções e arquivos tem valor semântico?
 [] A maioria das funções seguem as boas práticas como responsabilidade única?
 [] Foi criado o layout responsivo no Figma?
